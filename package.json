@@ -1,0 +1,20 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "My First Project",
+  "homepage": "https://github.com/stevenmondragon23/cse341#readme",
+  "bugs": {
+    "url": "https://github.com/stevenmondragon23/cse341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenmondragon23/cse341.git"
+  },
+  "license": "ISC",
+  "author": "Steven Mondragon",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
