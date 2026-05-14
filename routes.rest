@@ -8,3 +8,14 @@ GET http://localhost:3000/contacts
 ### GET CONTACT BY ID
 GET http://localhost:3000/contacts/6a05267d449837976508aa86
 
+
+
+//PRODUCTION
+
+###GET ALL CONTACTS 
+GET https://cse341-bx2j.onrender.com/contacts
+
+
+###GET CONTACT BY ID
+
+GET https://cse341-bx2j.onrender.com/contacts/6a05267d449837976508aa86
