@@ -13,6 +13,9 @@
   "paths": {
     "/": {
       "get": {
+        "tags": [
+          "Hello World"
+        ],
         "description": "",
         "responses": {
           "200": {
@@ -52,6 +55,9 @@
                   "example": "any"
                 },
                 "favoriteColor": {
+                  "example": "any"
+                },
+                "birthday": {
                   "example": "any"
                 }
               }
@@ -113,6 +119,9 @@
                   "example": "any"
                 },
                 "favoriteColor": {
+                  "example": "any"
+                },
+                "birthday": {
                   "example": "any"
                 }
               }
